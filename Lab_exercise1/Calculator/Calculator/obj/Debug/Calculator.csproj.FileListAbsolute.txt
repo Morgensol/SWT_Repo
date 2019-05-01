@@ -3,3 +3,5 @@ C:\Users\willi\Documents\Git\SWT_Repo\Lab_exercise1\Calculator\Calculator\bin\De
 C:\Users\willi\Documents\Git\SWT_Repo\Lab_exercise1\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 C:\Users\willi\Documents\Git\SWT_Repo\Lab_exercise1\Calculator\Calculator\obj\Debug\Calculator.dll
 C:\Users\willi\Documents\Git\SWT_Repo\Lab_exercise1\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\W_Desktop\Documents\GitHub\SWT_Repo\Lab_exercise1\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\W_Desktop\Documents\GitHub\SWT_Repo\Lab_exercise1\Calculator\Calculator\obj\Debug\Calculator.pdb
